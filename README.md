@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="500" src="image.jpg" alt="sawir php ah">
- 
-</p>
-
 <h1 align="center">php for Class cs19k</h1>.
 
 # Simister 7
