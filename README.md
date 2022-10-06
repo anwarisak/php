@@ -1,6 +1,6 @@
 <h1 align="center">php for Class cs19k</h1>.
 
-# Simister 7
+## Simister 7
 
 # Halkan waxaad kala dagi kartaa dhamaan code-ka maadada php ee class cs19k
 
