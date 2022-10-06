@@ -7,3 +7,5 @@
 <h4 align="left">© 2022 Anwar isak, back-End Developer</h4>
 
 <h3 align="right">© 2022 Abdirahmaan mohamed, front-End Developer</h3>
+
+waxaan kasoo badalay waakanaa arag waxaan ayaan kusoo qoray nio
