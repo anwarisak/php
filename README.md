@@ -12,6 +12,6 @@ xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan
 
 `calculator.php` waxaa ku jira project-gii koowaad ee calculator-ka lagu sameenayey 
 
-<h3 align="left">© 2022 Anwar isak, back-End Developer</h3>
+<p align="left">© 2022 Anwar isak, back-End Developer</p>
 
-<h3 align="left">© 2022 Abdirahmaan mohamed, front-End Developer</h3>
+<p align="left">© 2022 Abdirahmaan mohamed, front-End Developer</p>
