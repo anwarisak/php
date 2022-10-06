@@ -1,11 +1,21 @@
 <h1 align="center">php for Class cs19k</h1>.
 
-# Simister 7
+## Simister 7
 
 # Halkan waxaad kala dagi kartaa dhamaan code-ka maadada php ee class cs19k
 
-<h4 align="left">© 2022 Anwar isak, back-End Developer</h4>
+xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan
 
 <h3 align="right">© 2022 Abdirahmaan mohamed, front-End Developer</h3>
 
-waxaan kasoo badalay waakanaa arag waxaan ayaan kusoo qoray nio
+# waxaan kasoo badalay waakanaa arag waxaan ayaan kusoo qoray nio
+
+## week 3
+
+`arrey.php` waxaa ku jira dhamaan code-kii arrey-ga ee la sameeyey week 3
+
+`calculator.php` waxaa ku jira project-gii koowaad ee calculator-ka lagu sameenayey
+
+<p align="left">© 2022 Anwar isak, back-End Developer</p>
+
+<p align="left">© 2022 Abdirahmaan mohamed, front-End Developer</p>
