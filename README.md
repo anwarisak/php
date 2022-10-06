@@ -4,6 +4,14 @@
 
 # Halkan waxaad kala dagi kartaa dhamaan code-ka maadada php ee class cs19k
 
-<h4 align="left">© 2022 Anwar isak, back-End Developer</h4>
+xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan
 
-<h3 align="right">© 2022 Abdirahmaan mohamed, front-End Developer</h3>
+## week 3
+
+`arrey.php` waxaa ku jira dhamaan code-kii arrey-ga ee la sameeyey week 3
+
+`calculator.php` waxaa ku jira project-gii koowaad ee calculator-ka lagu sameenayey 
+
+<h3 align="left">© 2022 Anwar isak, back-End Developer</h3>
+
+<h3 align="left">© 2022 Abdirahmaan mohamed, front-End Developer</h3>
