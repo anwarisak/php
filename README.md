@@ -6,9 +6,7 @@
 
 xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan
 
-<h3 align="right">© 2022 Abdirahmaan mohamed, front-End Developer</h3>
 
-# waxaan kasoo badalay waakanaa arag waxaan ayaan kusoo qoray nio
 
 ## week 3
 
