@@ -6,8 +6,6 @@
 
 xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan
 
-
-
 ## week 3
 
 `arrey.php` waxaa ku jira dhamaan code-kii arrey-ga ee la sameeyey week 3
