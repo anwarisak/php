@@ -40,4 +40,4 @@ image.png
 
 #### halkan ka aqriso macluumaad ku saabsan php.
 
-* [Read here](https://devdocs.io/php/)
+* [halkan ka aqri](https://devdocs.io/php/)
