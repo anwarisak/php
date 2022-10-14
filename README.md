@@ -4,7 +4,7 @@
 
 # Halkan waxaad kala dagi kartaa dhamaan code-ka maadada php ee class cs19k
 
-xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan
+`xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan`
 
 ## week 3
 
