@@ -2,7 +2,7 @@
 
 ## Simister 7
 
-# Halkan waxaad kala dagi kartaa dhamaan code-ka maadada php ee class cs19k
+# Halkan waxaad kala dagi kartaa dhamaan code-ka maadada php ee class of cs19
 
 `xusuusnow isbuuc walba update ayaa lagu sameyn doonaa halkan`
 
