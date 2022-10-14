@@ -27,7 +27,7 @@ image.png
 
  #### qeybtan waxa aad ka heleysaa casharo ka dheeri ah jaamacada si aad kor ugu qaado barahada maadada `php`
 
-
+* Ustaad xaaji  [halkan ka daawo](https://youtu.be/CNIB89FoFtQ)
 * Course ( Af-soomaali ) [halkan ka daawo](https://www.youtube.com/watch?v=DmGUuqlNtb4&list=PL7usCIRV1hCOuOWsqB3Tz4RMMlf1_bPZX)
 * php ( Af-soomaali ) [halkan ka daawo](https://www.youtube.com/watch?v=i8D_0CujEF8)
 * full course ( english ) [halkan ka daawo](https://youtu.be/OK_JCtrrv-c)
