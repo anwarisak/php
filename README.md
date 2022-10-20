@@ -11,7 +11,9 @@
 `arrey.php` waxaa ku jira dhamaan code-kii arrey-ga ee la sameeyey week 3
 
 `calculator.php` waxaa ku jira project-gii koowaad ee calculator-ka lagu sameenayey
-image.png
+
+`database` folder-kan waxaaad ka heleysaa Query-gii ugu dambeeyey ee la sameeyey 
+
 
 ## Halkan waxa aad kala dagi kartaa dhamaan source code-yada iyo assigment-yada
 
